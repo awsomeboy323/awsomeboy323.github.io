@@ -39,4 +39,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ### Previous Projects
 
 [Cat Game](https://scratch.mit.edu/projects/245437757/)   
-[One-Word Resolution](https://scratch.mit.edu/projects/279480607/)
+[One-Word Resolution](https://scratch.mit.edu/projects/279480607/)   
+[Christmas Game](https://scratch.mit.edu/projects/260553988/)
