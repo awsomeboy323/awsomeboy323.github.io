@@ -40,4 +40,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 [Cat Game](https://scratch.mit.edu/projects/245437757/)   
 [One-Word Resolution](https://scratch.mit.edu/projects/279480607/)   
-[Christmas Game](https://scratch.mit.edu/projects/260553988/)
+[Christmas Game](https://scratch.mit.edu/projects/260553988/)   
+![Scratch](https://www.logolynx.com/images/logolynx/85/85b6e9666d241061071242ba55102651.jpeg)
